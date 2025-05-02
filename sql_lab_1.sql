@@ -1,4 +1,5 @@
 USE sakila;
+SHOW TABLES;
 
 SELECT * FROM actor;
  SELECT * FROM film;
